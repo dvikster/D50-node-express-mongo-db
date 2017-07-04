@@ -1,0 +1,22 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "D50-node-express-mongo-db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvikster/D50-node-express-mongo-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvikster/D50-node-express-mongo-db/issues"
+  },
+  "homepage": "https://github.com/dvikster/D50-node-express-mongo-db#readme",
+  "dependencies": {
+    "mongodb": "^2.2.29"
+  }
+}
